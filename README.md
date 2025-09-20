@@ -23,7 +23,7 @@ This repository contains a collection of practical projects focused on performin
 **Highlights:**
 - Queries for failed logons, account lockouts, and admin activities.  
 - Techniques to detect lateral movement and persistence methods.  
-**[View Project](project-1-investigating-windows-event-logs-for-security-incidents.md)**
+**[View Project](https://github.com/00112244/windows_forensics/blob/main/Investigating-Windows-Event-Logs-for-Security-Incidents.md)**
 
 ---
 
@@ -35,7 +35,7 @@ This repository contains a collection of practical projects focused on performin
 **Highlights:**
 - Identifying persistence mechanisms and USB device history.  
 - Tools: RegRipper, Registry Explorer.  
-**[View Project](project-2-Analyzing-Windows-registry-for-evidences.md)**
+**[View Project](https://github.com/00112244/windows_forensics/blob/main/Analyzing-Windows-Registry-for-Evidence-of-Malicious-Activity.md)**
 
 ---
 
@@ -47,7 +47,7 @@ This repository contains a collection of practical projects focused on performin
 **Highlights:**
 - Detecting timestomping and file manipulation.  
 - Identifying hidden or suspicious files.  
-**[View Project](project-3-Forensic-analysis-of-Windows-file-system-and-artifacts.md)**
+**[View Project](https://github.com/00112244/windows_forensics/blob/main/Forensic-Analysis-of-Windows-File-Systems-and-Artifacts.md)**
 
 ---
 
