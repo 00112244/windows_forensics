@@ -27,7 +27,7 @@ This repository contains a collection of practical projects focused on performin
 
 ---
 
-### 2. Analyzing Windows Registry for Evidences
+### 2. Analyzing Windows Registry for Evidence of Malicious Activity
 **Description:** Explores the Windows Registry as a forensic goldmine to extract evidence of user activity and persistence.  
 **Key Features:**
 - Examination of registry hives (SAM, SYSTEM, NTUSER.DAT, etc.).  
