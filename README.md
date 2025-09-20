@@ -39,7 +39,7 @@ This repository contains a collection of practical projects focused on performin
 
 ---
 
-### 3. Forensic Analysis of Windows File System and Artifacts
+### 3. Forensic Analysis of Windows File Systems and Artifacts
 **Description:** Focuses on investigating the Windows NTFS file system and related artifacts.  
 **Key Features:**
 - Analysis of Master File Table (MFT), $LogFile, and $Recycle.Bin.  
