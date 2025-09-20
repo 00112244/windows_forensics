@@ -59,11 +59,11 @@ This repository contains a collection of practical projects focused on performin
 **Highlights:**
 - Detecting visited websites, search history, and session activity.  
 - Identifying evidence of phishing or exfiltration attempts.  
-**[View Project](project-4-extracting-and-interpreting-browser-artifacts-on-windows.md)**
+**[View Project](https://github.com/00112244/windows_forensics/blob/main/Extracting-and-Interpreting-Browser-Artifacts-on-Windows.md)**
 
 ---
 
-### 5. Recovering and Analyzing Deleted or Lost Data *(Coming Soon)*
+### 5. Recovering and Analyzing Deleted Files on Windows Systems
 **Description:** Covers techniques for recovering deleted or lost files in Windows systems.  
 **Key Features:**
 - File carving and recovery using forensic tools.  
@@ -71,7 +71,7 @@ This repository contains a collection of practical projects focused on performin
 **Highlights:**
 - Validation of recovered evidence.  
 - Practical case examples of data recovery.  
-**View Project – Coming Soon**
+**[View Project](https://github.com/00112244/windows_forensics/blob/main/Recovering-and-Analyzing-Deleted-Files-on-Windows-Systems.md)**
 
 ---
 
